@@ -51,6 +51,12 @@ python src/main.py
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Pekmos?style=social)](https://github.com/sponsors/Pekmos)
 
+### 支付宝打赏
+
+<img src="https://github.com/Pekmos/win-optimizer/raw/master/docs/alipay.jpg" width="200" alt="支付宝打赏">
+
+**扫码支持，感谢！**
+
 ## 许可证
 
 MIT License - 详见 [LICENSE](LICENSE) 文件
